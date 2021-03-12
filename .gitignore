@@ -8,8 +8,8 @@
 
 .nfs*
 
-bin
-obj
+bin/
+obj/
 .vscode/*
 !.vscode/tasks.json
 !.vscode/launch.json
