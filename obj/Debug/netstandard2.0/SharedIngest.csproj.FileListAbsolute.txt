@@ -1,0 +1,14 @@
+/home/elizangelac/IHM/PoCs/CoreTest/Shared/bin/Debug/netstandard2.0/SharedIngest.deps.json
+/home/elizangelac/IHM/PoCs/CoreTest/Shared/bin/Debug/netstandard2.0/SharedIngest.dll
+/home/elizangelac/IHM/PoCs/CoreTest/Shared/bin/Debug/netstandard2.0/SharedIngest.pdb
+/home/elizangelac/IHM/PoCs/CoreTest/Shared/obj/Debug/netstandard2.0/SharedIngest.csprojAssemblyReference.cache
+/home/elizangelac/IHM/PoCs/CoreTest/Shared/obj/Debug/netstandard2.0/SharedIngest.csproj.CoreCompileInputs.cache
+/home/elizangelac/IHM/PoCs/CoreTest/Shared/obj/Debug/netstandard2.0/SharedIngest.dll
+/home/elizangelac/IHM/PoCs/CoreTest/Shared/obj/Debug/netstandard2.0/SharedIngest.pdb
+/home/elizangelac/IHM/PoCs/Shared/bin/Debug/netstandard2.0/SharedIngest.deps.json
+/home/elizangelac/IHM/PoCs/Shared/bin/Debug/netstandard2.0/SharedIngest.dll
+/home/elizangelac/IHM/PoCs/Shared/bin/Debug/netstandard2.0/SharedIngest.pdb
+/home/elizangelac/IHM/PoCs/Shared/obj/Debug/netstandard2.0/SharedIngest.csprojAssemblyReference.cache
+/home/elizangelac/IHM/PoCs/Shared/obj/Debug/netstandard2.0/SharedIngest.csproj.CoreCompileInputs.cache
+/home/elizangelac/IHM/PoCs/Shared/obj/Debug/netstandard2.0/SharedIngest.dll
+/home/elizangelac/IHM/PoCs/Shared/obj/Debug/netstandard2.0/SharedIngest.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Eliz.Teste.Shared</id>
+    <version>1.0.0</version>
+    <authors>Eliz</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Test Lib</description>
+    <tags>Log</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/elizangelac/IHM/PoCs/CoreTest/Shared/bin/Debug/netstandard2.0/Shared.dll" target="lib/netstandard2.0/Shared.dll" />
+  </files>
+</package>

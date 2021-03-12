@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PackageId>Eliz.Teste.SharedIngest</PackageId>
+    <Authors>Eliz</Authors>
+    <Company>Eliz</Company>
+    <Version>1.0.2</Version>
+    <Description>Test Lib</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Log</PackageTags>
+    <RespositoryUrl>https://github.com/elizangelac-ciandt/SharedIngest</RespositoryUrl>
+  </PropertyGroup>
+
+</Project>
