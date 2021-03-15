@@ -7,7 +7,7 @@
     <PackageId>Eliz.Teste.SharedIngest</PackageId>
     <Authors>Eliz</Authors>
     <Company>Eliz</Company>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Description>Test Lib</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Log</PackageTags>
